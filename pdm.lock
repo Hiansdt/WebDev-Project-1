@@ -38,7 +38,7 @@ summary = "Cross-platform colored terminal text."
 
 [[package]]
 name = "django"
-version = "4.1.7"
+version = "4.1"
 requires_python = ">=3.8"
 summary = "A high-level Python web framework that encourages rapid development and clean, pragmatic design."
 dependencies = [
@@ -139,7 +139,7 @@ summary = "Provider of IANA time zone data"
 
 [metadata]
 lock_version = "4.1"
-content_hash = "sha256:bcf7b75b62ee47fa3c876226459c78d3a16be783eb70630a9f1436600b491ade"
+content_hash = "sha256:5636f55176c50848a18e37fee3190e8c0702d6304ce7791b9942eafc9d9199d4"
 
 [metadata.files]
 "asgiref 3.6.0" = [
@@ -181,9 +181,9 @@ content_hash = "sha256:bcf7b75b62ee47fa3c876226459c78d3a16be783eb70630a9f1436600
     {url = "https://files.pythonhosted.org/packages/d1/d6/3965ed04c63042e047cb6a3e6ed1a63a35087b6a609aa3a15ed8ac56c221/colorama-0.4.6-py2.py3-none-any.whl", hash = "sha256:4f1d9991f5acc0ca119f9d443620b77f9d6b33703e51011c16baf57afb285fc6"},
     {url = "https://files.pythonhosted.org/packages/d8/53/6f443c9a4a8358a93a6792e2acffb9d9d5cb0a5cfd8802644b7b1c9a02e4/colorama-0.4.6.tar.gz", hash = "sha256:08695f5cb7ed6e0531a20572697297273c47b8cae5a63ffc6d6ed5c201be6e44"},
 ]
-"django 4.1.7" = [
-    {url = "https://files.pythonhosted.org/packages/89/86/59e237f7176cfc1544446914fa329fd560bb8fce46be52dd7af5dc7c54f9/Django-4.1.7-py3-none-any.whl", hash = "sha256:f2f431e75adc40039ace496ad3b9f17227022e8b11566f4b363da44c7e44761e"},
-    {url = "https://files.pythonhosted.org/packages/9f/a7/07939866241b7e8f8d3bf164b7d6ad428163723e29dd472700f8ab0e5fd5/Django-4.1.7.tar.gz", hash = "sha256:44f714b81c5f190d9d2ddad01a532fe502fa01c4cb8faf1d081f4264ed15dcd8"},
+"django 4.1" = [
+    {url = "https://files.pythonhosted.org/packages/13/66/757b8f4f4df4b1c1becad346c3a6401ae9fddcc78aa3741d231be657cf94/Django-4.1.tar.gz", hash = "sha256:032f8a6fc7cf05ccd1214e4a2e21dfcd6a23b9d575c6573cacc8c67828dbe642"},
+    {url = "https://files.pythonhosted.org/packages/9b/41/e1e7d6ecc3bc76681dfdc6b373566822bc2aab96fa3eceaaed70accc28b6/Django-4.1-py3-none-any.whl", hash = "sha256:031ccb717782f6af83a0063a1957686e87cb4581ea61b47b3e9addf60687989a"},
 ]
 "django-cors-headers 3.14.0" = [
     {url = "https://files.pythonhosted.org/packages/45/f1/972b3a183192841b811e4b7496de0a31c09ae1d83a5391743c8ae0cbd86e/django_cors_headers-3.14.0-py3-none-any.whl", hash = "sha256:684180013cc7277bdd8702b80a3c5a4b3fcae4abb2bf134dceb9f5dfe300228e"},
