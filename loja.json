@@ -1,1274 +1,6 @@
 [
 {
-  "model": "admin.logentry",
-  "pk": 1,
-  "fields": {
-    "action_time": "2023-04-28T18:15:48.412Z",
-    "user": 1,
-    "content_type": 8,
-    "object_id": "1",
-    "object_repr": "acucar - 11 - R$100",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 2,
-  "fields": {
-    "action_time": "2023-04-28T18:15:53.854Z",
-    "user": 1,
-    "content_type": 8,
-    "object_id": "1",
-    "object_repr": "acucar - 11 - R$100.00",
-    "action_flag": 2,
-    "change_message": "[]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 3,
-  "fields": {
-    "action_time": "2023-04-28T18:16:14.346Z",
-    "user": 1,
-    "content_type": 7,
-    "object_id": "1",
-    "object_repr": "Carrinho",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 4,
-  "fields": {
-    "action_time": "2023-04-28T18:16:23.682Z",
-    "user": 1,
-    "content_type": 9,
-    "object_id": "1",
-    "object_repr": "acucar - 2",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 5,
-  "fields": {
-    "action_time": "2023-04-28T18:30:20.959Z",
-    "user": 1,
-    "content_type": 9,
-    "object_id": "1",
-    "object_repr": "acucar - 8",
-    "action_flag": 2,
-    "change_message": "[{\"changed\": {\"fields\": [\"Quantidade\"]}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 6,
-  "fields": {
-    "action_time": "2023-04-28T18:33:10.036Z",
-    "user": 1,
-    "content_type": 8,
-    "object_id": "1",
-    "object_repr": "Açúcar (1kg) - 11 - R$100.00",
-    "action_flag": 2,
-    "change_message": "[{\"changed\": {\"fields\": [\"Nome item\"]}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 7,
-  "fields": {
-    "action_time": "2023-04-29T13:54:57.525Z",
-    "user": 1,
-    "content_type": 8,
-    "object_id": "2",
-    "object_repr": "Melão - 13 - R$999.99",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 8,
-  "fields": {
-    "action_time": "2023-04-29T14:07:47.360Z",
-    "user": 1,
-    "content_type": 8,
-    "object_id": "2",
-    "object_repr": "Melão - 13 - R$999.99",
-    "action_flag": 2,
-    "change_message": "[{\"changed\": {\"fields\": [\"Foto\"]}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 9,
-  "fields": {
-    "action_time": "2023-04-29T14:13:24.276Z",
-    "user": 1,
-    "content_type": 8,
-    "object_id": "2",
-    "object_repr": "Melão - 13 - R$999.99",
-    "action_flag": 2,
-    "change_message": "[]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 10,
-  "fields": {
-    "action_time": "2023-04-29T14:13:49.638Z",
-    "user": 1,
-    "content_type": 11,
-    "object_id": "2",
-    "object_repr": "( - 33b32bf0-23d9-4494-814f-b3ab5d496113)",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 11,
-  "fields": {
-    "action_time": "2023-04-29T14:13:55.062Z",
-    "user": 1,
-    "content_type": 8,
-    "object_id": "1",
-    "object_repr": "Açúcar (1kg) - 11 - R$100.00",
-    "action_flag": 2,
-    "change_message": "[{\"changed\": {\"fields\": [\"Foto\"]}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 12,
-  "fields": {
-    "action_time": "2023-05-02T22:59:40.503Z",
-    "user": 1,
-    "content_type": 9,
-    "object_id": "32",
-    "object_repr": "Açúcar (1kg) - 1",
-    "action_flag": 3,
-    "change_message": ""
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 13,
-  "fields": {
-    "action_time": "2023-05-02T22:59:46.873Z",
-    "user": 1,
-    "content_type": 9,
-    "object_id": "31",
-    "object_repr": "Joao - 1",
-    "action_flag": 3,
-    "change_message": ""
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 14,
-  "fields": {
-    "action_time": "2023-05-02T22:59:50.666Z",
-    "user": 1,
-    "content_type": 9,
-    "object_id": "30",
-    "object_repr": "Fluoreto - 1",
-    "action_flag": 3,
-    "change_message": ""
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 15,
-  "fields": {
-    "action_time": "2023-05-02T23:00:05.888Z",
-    "user": 1,
-    "content_type": 9,
-    "object_id": "29",
-    "object_repr": "Açúcar (1kg) - 1",
-    "action_flag": 3,
-    "change_message": ""
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 16,
-  "fields": {
-    "action_time": "2023-05-02T23:31:45.736Z",
-    "user": 1,
-    "content_type": 8,
-    "object_id": "7",
-    "object_repr": "asdsd - 12 - R$999.00",
-    "action_flag": 3,
-    "change_message": ""
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 17,
-  "fields": {
-    "action_time": "2023-05-02T23:31:50.008Z",
-    "user": 1,
-    "content_type": 8,
-    "object_id": "6",
-    "object_repr": "Fluoreto - 10 - R$999.00",
-    "action_flag": 3,
-    "change_message": ""
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 18,
-  "fields": {
-    "action_time": "2023-05-02T23:31:53.326Z",
-    "user": 1,
-    "content_type": 8,
-    "object_id": "5",
-    "object_repr": "Joao - 3 - R$10.00",
-    "action_flag": 3,
-    "change_message": ""
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 19,
-  "fields": {
-    "action_time": "2023-05-02T23:31:57.208Z",
-    "user": 1,
-    "content_type": 8,
-    "object_id": "4",
-    "object_repr": "Maçã - 10 - R$99.00",
-    "action_flag": 3,
-    "change_message": ""
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 20,
-  "fields": {
-    "action_time": "2023-05-02T23:32:00.639Z",
-    "user": 1,
-    "content_type": 8,
-    "object_id": "3",
-    "object_repr": "Maçã - 10 - R$99.00",
-    "action_flag": 3,
-    "change_message": ""
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 21,
-  "fields": {
-    "action_time": "2023-05-02T23:32:04.758Z",
-    "user": 1,
-    "content_type": 8,
-    "object_id": "2",
-    "object_repr": "Melão - 13 - R$999.99",
-    "action_flag": 3,
-    "change_message": ""
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 22,
-  "fields": {
-    "action_time": "2023-05-02T23:32:08.487Z",
-    "user": 1,
-    "content_type": 8,
-    "object_id": "1",
-    "object_repr": "Açúcar (1kg) - 11 - R$100.00",
-    "action_flag": 3,
-    "change_message": ""
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 23,
-  "fields": {
-    "action_time": "2023-05-02T23:32:45.285Z",
-    "user": 1,
-    "content_type": 11,
-    "object_id": "1",
-    "object_repr": "(awa - bd567bf6-c166-4e8f-9d32-ecbfe3d95a9b)",
-    "action_flag": 3,
-    "change_message": ""
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 24,
-  "fields": {
-    "action_time": "2023-05-02T23:32:49.135Z",
-    "user": 1,
-    "content_type": 11,
-    "object_id": "2",
-    "object_repr": "( - 33b32bf0-23d9-4494-814f-b3ab5d496113)",
-    "action_flag": 3,
-    "change_message": ""
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 25,
-  "fields": {
-    "action_time": "2023-05-02T23:33:07.946Z",
-    "user": 1,
-    "content_type": 11,
-    "object_id": "3",
-    "object_repr": "(Camisa - 936bdae5-e6be-491b-95e0-8fa8e01c0cbd)",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 26,
-  "fields": {
-    "action_time": "2023-05-02T23:33:25.847Z",
-    "user": 1,
-    "content_type": 11,
-    "object_id": "4",
-    "object_repr": "(Calca - 3fdb0877-94d4-4cd4-bfaa-4b67bcb44fb4)",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 27,
-  "fields": {
-    "action_time": "2023-05-02T23:33:45.857Z",
-    "user": 1,
-    "content_type": 11,
-    "object_id": "5",
-    "object_repr": "(Meia - 7ea156da-3020-4a30-a1b5-6ace8946d61e)",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 28,
-  "fields": {
-    "action_time": "2023-05-02T23:34:00.542Z",
-    "user": 1,
-    "content_type": 11,
-    "object_id": "6",
-    "object_repr": "(Sapato - c2a575d8-424c-4b1f-9684-ae24ebfc0aa4)",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 29,
-  "fields": {
-    "action_time": "2023-05-02T23:34:09.950Z",
-    "user": 1,
-    "content_type": 11,
-    "object_id": "7",
-    "object_repr": "(Bone - ec37628a-8bd6-4494-b249-b9e259f347e7)",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 30,
-  "fields": {
-    "action_time": "2023-05-02T23:34:12.303Z",
-    "user": 1,
-    "content_type": 11,
-    "object_id": "7",
-    "object_repr": "(Bone - ec37628a-8bd6-4494-b249-b9e259f347e7)",
-    "action_flag": 2,
-    "change_message": "[]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 31,
-  "fields": {
-    "action_time": "2023-05-02T23:34:22.520Z",
-    "user": 1,
-    "content_type": 11,
-    "object_id": "8",
-    "object_repr": "(Oculos - 7836e806-7e18-4801-9022-24bc3d363239)",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 32,
-  "fields": {
-    "action_time": "2023-05-02T23:34:34.330Z",
-    "user": 1,
-    "content_type": 11,
-    "object_id": "9",
-    "object_repr": "(Relogio - 03cd55bc-a78b-4c35-ad35-26621d781df7)",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 33,
-  "fields": {
-    "action_time": "2023-05-02T23:34:45.807Z",
-    "user": 1,
-    "content_type": 11,
-    "object_id": "10",
-    "object_repr": "(Bermuda - 339fad4b-782c-43b1-baba-5182d2511786)",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 34,
-  "fields": {
-    "action_time": "2023-05-02T23:34:51.951Z",
-    "user": 1,
-    "content_type": 11,
-    "object_id": "11",
-    "object_repr": "(Cueca - bcc78b1a-cb4f-411e-965a-1eb5e2409312)",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 35,
-  "fields": {
-    "action_time": "2023-05-02T23:35:16.775Z",
-    "user": 1,
-    "content_type": 8,
-    "object_id": "8",
-    "object_repr": "Camisa - 10 - R$87.90",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 36,
-  "fields": {
-    "action_time": "2023-05-02T23:35:46.028Z",
-    "user": 1,
-    "content_type": 8,
-    "object_id": "9",
-    "object_repr": "Bermuda - 10 - R$19.90",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 37,
-  "fields": {
-    "action_time": "2023-05-02T23:36:09.801Z",
-    "user": 1,
-    "content_type": 8,
-    "object_id": "10",
-    "object_repr": "Relógio - 10 - R$859.99",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 38,
-  "fields": {
-    "action_time": "2023-05-02T23:36:31.631Z",
-    "user": 1,
-    "content_type": 8,
-    "object_id": "11",
-    "object_repr": "Cueca - 10 - R$10.50",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 39,
-  "fields": {
-    "action_time": "2023-05-02T23:36:56.194Z",
-    "user": 1,
-    "content_type": 8,
-    "object_id": "12",
-    "object_repr": "Óculos - 10 - R$199.90",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 40,
-  "fields": {
-    "action_time": "2023-05-02T23:37:17.298Z",
-    "user": 1,
-    "content_type": 8,
-    "object_id": "13",
-    "object_repr": "Meia - 10 - R$3.50",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 41,
-  "fields": {
-    "action_time": "2023-05-02T23:37:53.100Z",
-    "user": 1,
-    "content_type": 8,
-    "object_id": "14",
-    "object_repr": "Boné - 10 - R$50.00",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 42,
-  "fields": {
-    "action_time": "2023-05-02T23:38:11.217Z",
-    "user": 1,
-    "content_type": 8,
-    "object_id": "15",
-    "object_repr": "Sapato - 10 - R$99.90",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 43,
-  "fields": {
-    "action_time": "2023-05-02T23:39:02.990Z",
-    "user": 1,
-    "content_type": 8,
-    "object_id": "16",
-    "object_repr": "Calça - 10 - R$89.90",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 44,
-  "fields": {
-    "action_time": "2023-05-07T14:04:31.787Z",
-    "user": 1,
-    "content_type": 11,
-    "object_id": "10",
-    "object_repr": "(Bermuda - 339fad4b-782c-43b1-baba-5182d2511786)",
-    "action_flag": 3,
-    "change_message": ""
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 45,
-  "fields": {
-    "action_time": "2023-05-07T14:04:38.887Z",
-    "user": 1,
-    "content_type": 11,
-    "object_id": "9",
-    "object_repr": "(Relogio - 03cd55bc-a78b-4c35-ad35-26621d781df7)",
-    "action_flag": 3,
-    "change_message": ""
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 46,
-  "fields": {
-    "action_time": "2023-05-07T14:04:46.384Z",
-    "user": 1,
-    "content_type": 11,
-    "object_id": "8",
-    "object_repr": "(Oculos - 7836e806-7e18-4801-9022-24bc3d363239)",
-    "action_flag": 3,
-    "change_message": ""
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 47,
-  "fields": {
-    "action_time": "2023-05-07T14:04:58.800Z",
-    "user": 1,
-    "content_type": 11,
-    "object_id": "11",
-    "object_repr": "(Cueca - bcc78b1a-cb4f-411e-965a-1eb5e2409312)",
-    "action_flag": 3,
-    "change_message": ""
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 48,
-  "fields": {
-    "action_time": "2023-05-07T14:05:35.013Z",
-    "user": 1,
-    "content_type": 11,
-    "object_id": "6",
-    "object_repr": "(Sapato - c2a575d8-424c-4b1f-9684-ae24ebfc0aa4)",
-    "action_flag": 3,
-    "change_message": ""
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 49,
-  "fields": {
-    "action_time": "2023-05-07T14:05:38.401Z",
-    "user": 1,
-    "content_type": 11,
-    "object_id": "7",
-    "object_repr": "(Bone - ec37628a-8bd6-4494-b249-b9e259f347e7)",
-    "action_flag": 3,
-    "change_message": ""
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 50,
-  "fields": {
-    "action_time": "2023-05-07T14:05:41.946Z",
-    "user": 1,
-    "content_type": 11,
-    "object_id": "5",
-    "object_repr": "(Meia - 7ea156da-3020-4a30-a1b5-6ace8946d61e)",
-    "action_flag": 3,
-    "change_message": ""
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 51,
-  "fields": {
-    "action_time": "2023-05-07T14:05:45.889Z",
-    "user": 1,
-    "content_type": 11,
-    "object_id": "4",
-    "object_repr": "(Calca - 3fdb0877-94d4-4cd4-bfaa-4b67bcb44fb4)",
-    "action_flag": 3,
-    "change_message": ""
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 52,
-  "fields": {
-    "action_time": "2023-05-07T14:14:25.728Z",
-    "user": 1,
-    "content_type": 11,
-    "object_id": "12",
-    "object_repr": "(Bermuda - b4d154d5-2286-4a40-9713-300ef0d7e0ec)",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 53,
-  "fields": {
-    "action_time": "2023-05-07T14:14:28.193Z",
-    "user": 1,
-    "content_type": 8,
-    "object_id": "17",
-    "object_repr": "Bermuda - 12 - R$29.90",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 54,
-  "fields": {
-    "action_time": "2023-05-07T14:15:02.390Z",
-    "user": 1,
-    "content_type": 11,
-    "object_id": "13",
-    "object_repr": "(Relogio - 1a3caf26-49bb-4490-9e58-404a56e48afe)",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 55,
-  "fields": {
-    "action_time": "2023-05-07T14:15:04.273Z",
-    "user": 1,
-    "content_type": 8,
-    "object_id": "18",
-    "object_repr": "Relógio - 5 - R$859.90",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 56,
-  "fields": {
-    "action_time": "2023-05-07T14:16:09.209Z",
-    "user": 1,
-    "content_type": 11,
-    "object_id": "14",
-    "object_repr": "(Oculos - dc2284a2-faad-4c76-b266-1c904150e230)",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 57,
-  "fields": {
-    "action_time": "2023-05-07T14:16:10.863Z",
-    "user": 1,
-    "content_type": 8,
-    "object_id": "19",
-    "object_repr": "Óculos - 20 - R$99.90",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 58,
-  "fields": {
-    "action_time": "2023-05-07T14:16:41.606Z",
-    "user": 1,
-    "content_type": 11,
-    "object_id": "15",
-    "object_repr": "(Meia - 507c0390-53e9-42d4-81f2-f81ed5e0bd44)",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 59,
-  "fields": {
-    "action_time": "2023-05-07T14:16:42.778Z",
-    "user": 1,
-    "content_type": 8,
-    "object_id": "20",
-    "object_repr": "Meia - 25 - R$5.50",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 60,
-  "fields": {
-    "action_time": "2023-05-07T14:17:13.091Z",
-    "user": 1,
-    "content_type": 11,
-    "object_id": "16",
-    "object_repr": "(Tenis - de85852b-46cd-4f4d-be44-e13e5d5e56a7)",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 61,
-  "fields": {
-    "action_time": "2023-05-07T14:17:14.208Z",
-    "user": 1,
-    "content_type": 8,
-    "object_id": "21",
-    "object_repr": "Tênis - 20 - R$75.70",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 62,
-  "fields": {
-    "action_time": "2023-05-07T14:17:57.654Z",
-    "user": 1,
-    "content_type": 11,
-    "object_id": "17",
-    "object_repr": "(Bone - e8c60724-da2f-4eb4-8ed4-febcc7208cf4)",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 63,
-  "fields": {
-    "action_time": "2023-05-07T14:17:59.469Z",
-    "user": 1,
-    "content_type": 8,
-    "object_id": "22",
-    "object_repr": "Boné - 7 - R$25.99",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 64,
-  "fields": {
-    "action_time": "2023-05-07T14:18:47.825Z",
-    "user": 1,
-    "content_type": 11,
-    "object_id": "18",
-    "object_repr": "(Calca - cc54a137-3c09-40f8-86f4-808056a5682c)",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 65,
-  "fields": {
-    "action_time": "2023-05-07T14:18:49.266Z",
-    "user": 1,
-    "content_type": 8,
-    "object_id": "23",
-    "object_repr": "Calça - 10 - R$39.90",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 66,
-  "fields": {
-    "action_time": "2023-05-07T17:48:20.959Z",
-    "user": 1,
-    "content_type": 11,
-    "object_id": "19",
-    "object_repr": "(Oculos2 - 17feb7b0-bc0d-4b7d-adcb-b696749e0020)",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 67,
-  "fields": {
-    "action_time": "2023-05-07T17:48:36.782Z",
-    "user": 1,
-    "content_type": 8,
-    "object_id": "19",
-    "object_repr": "Óculos - 20 - R$99.90",
-    "action_flag": 2,
-    "change_message": "[{\"changed\": {\"fields\": [\"Foto\"]}}]"
-  }
-},
-{
-  "model": "auth.permission",
-  "pk": 1,
-  "fields": {
-    "name": "Can add log entry",
-    "content_type": 1,
-    "codename": "add_logentry"
-  }
-},
-{
-  "model": "auth.permission",
-  "pk": 2,
-  "fields": {
-    "name": "Can change log entry",
-    "content_type": 1,
-    "codename": "change_logentry"
-  }
-},
-{
-  "model": "auth.permission",
-  "pk": 3,
-  "fields": {
-    "name": "Can delete log entry",
-    "content_type": 1,
-    "codename": "delete_logentry"
-  }
-},
-{
-  "model": "auth.permission",
-  "pk": 4,
-  "fields": {
-    "name": "Can view log entry",
-    "content_type": 1,
-    "codename": "view_logentry"
-  }
-},
-{
-  "model": "auth.permission",
-  "pk": 5,
-  "fields": {
-    "name": "Can add permission",
-    "content_type": 2,
-    "codename": "add_permission"
-  }
-},
-{
-  "model": "auth.permission",
-  "pk": 6,
-  "fields": {
-    "name": "Can change permission",
-    "content_type": 2,
-    "codename": "change_permission"
-  }
-},
-{
-  "model": "auth.permission",
-  "pk": 7,
-  "fields": {
-    "name": "Can delete permission",
-    "content_type": 2,
-    "codename": "delete_permission"
-  }
-},
-{
-  "model": "auth.permission",
-  "pk": 8,
-  "fields": {
-    "name": "Can view permission",
-    "content_type": 2,
-    "codename": "view_permission"
-  }
-},
-{
-  "model": "auth.permission",
-  "pk": 9,
-  "fields": {
-    "name": "Can add group",
-    "content_type": 3,
-    "codename": "add_group"
-  }
-},
-{
-  "model": "auth.permission",
-  "pk": 10,
-  "fields": {
-    "name": "Can change group",
-    "content_type": 3,
-    "codename": "change_group"
-  }
-},
-{
-  "model": "auth.permission",
-  "pk": 11,
-  "fields": {
-    "name": "Can delete group",
-    "content_type": 3,
-    "codename": "delete_group"
-  }
-},
-{
-  "model": "auth.permission",
-  "pk": 12,
-  "fields": {
-    "name": "Can view group",
-    "content_type": 3,
-    "codename": "view_group"
-  }
-},
-{
-  "model": "auth.permission",
-  "pk": 13,
-  "fields": {
-    "name": "Can add user",
-    "content_type": 4,
-    "codename": "add_user"
-  }
-},
-{
-  "model": "auth.permission",
-  "pk": 14,
-  "fields": {
-    "name": "Can change user",
-    "content_type": 4,
-    "codename": "change_user"
-  }
-},
-{
-  "model": "auth.permission",
-  "pk": 15,
-  "fields": {
-    "name": "Can delete user",
-    "content_type": 4,
-    "codename": "delete_user"
-  }
-},
-{
-  "model": "auth.permission",
-  "pk": 16,
-  "fields": {
-    "name": "Can view user",
-    "content_type": 4,
-    "codename": "view_user"
-  }
-},
-{
-  "model": "auth.permission",
-  "pk": 17,
-  "fields": {
-    "name": "Can add content type",
-    "content_type": 5,
-    "codename": "add_contenttype"
-  }
-},
-{
-  "model": "auth.permission",
-  "pk": 18,
-  "fields": {
-    "name": "Can change content type",
-    "content_type": 5,
-    "codename": "change_contenttype"
-  }
-},
-{
-  "model": "auth.permission",
-  "pk": 19,
-  "fields": {
-    "name": "Can delete content type",
-    "content_type": 5,
-    "codename": "delete_contenttype"
-  }
-},
-{
-  "model": "auth.permission",
-  "pk": 20,
-  "fields": {
-    "name": "Can view content type",
-    "content_type": 5,
-    "codename": "view_contenttype"
-  }
-},
-{
-  "model": "auth.permission",
-  "pk": 21,
-  "fields": {
-    "name": "Can add session",
-    "content_type": 6,
-    "codename": "add_session"
-  }
-},
-{
-  "model": "auth.permission",
-  "pk": 22,
-  "fields": {
-    "name": "Can change session",
-    "content_type": 6,
-    "codename": "change_session"
-  }
-},
-{
-  "model": "auth.permission",
-  "pk": 23,
-  "fields": {
-    "name": "Can delete session",
-    "content_type": 6,
-    "codename": "delete_session"
-  }
-},
-{
-  "model": "auth.permission",
-  "pk": 24,
-  "fields": {
-    "name": "Can view session",
-    "content_type": 6,
-    "codename": "view_session"
-  }
-},
-{
-  "model": "auth.permission",
-  "pk": 25,
-  "fields": {
-    "name": "Can add carrinho",
-    "content_type": 7,
-    "codename": "add_carrinho"
-  }
-},
-{
-  "model": "auth.permission",
-  "pk": 26,
-  "fields": {
-    "name": "Can change carrinho",
-    "content_type": 7,
-    "codename": "change_carrinho"
-  }
-},
-{
-  "model": "auth.permission",
-  "pk": 27,
-  "fields": {
-    "name": "Can delete carrinho",
-    "content_type": 7,
-    "codename": "delete_carrinho"
-  }
-},
-{
-  "model": "auth.permission",
-  "pk": 28,
-  "fields": {
-    "name": "Can view carrinho",
-    "content_type": 7,
-    "codename": "view_carrinho"
-  }
-},
-{
-  "model": "auth.permission",
-  "pk": 29,
-  "fields": {
-    "name": "Can add item",
-    "content_type": 8,
-    "codename": "add_item"
-  }
-},
-{
-  "model": "auth.permission",
-  "pk": 30,
-  "fields": {
-    "name": "Can change item",
-    "content_type": 8,
-    "codename": "change_item"
-  }
-},
-{
-  "model": "auth.permission",
-  "pk": 31,
-  "fields": {
-    "name": "Can delete item",
-    "content_type": 8,
-    "codename": "delete_item"
-  }
-},
-{
-  "model": "auth.permission",
-  "pk": 32,
-  "fields": {
-    "name": "Can view item",
-    "content_type": 8,
-    "codename": "view_item"
-  }
-},
-{
-  "model": "auth.permission",
-  "pk": 33,
-  "fields": {
-    "name": "Can add carrinho_ item",
-    "content_type": 9,
-    "codename": "add_carrinho_item"
-  }
-},
-{
-  "model": "auth.permission",
-  "pk": 34,
-  "fields": {
-    "name": "Can change carrinho_ item",
-    "content_type": 9,
-    "codename": "change_carrinho_item"
-  }
-},
-{
-  "model": "auth.permission",
-  "pk": 35,
-  "fields": {
-    "name": "Can delete carrinho_ item",
-    "content_type": 9,
-    "codename": "delete_carrinho_item"
-  }
-},
-{
-  "model": "auth.permission",
-  "pk": 36,
-  "fields": {
-    "name": "Can view carrinho_ item",
-    "content_type": 9,
-    "codename": "view_carrinho_item"
-  }
-},
-{
-  "model": "auth.permission",
-  "pk": 37,
-  "fields": {
-    "name": "Can add document",
-    "content_type": 10,
-    "codename": "add_document"
-  }
-},
-{
-  "model": "auth.permission",
-  "pk": 38,
-  "fields": {
-    "name": "Can change document",
-    "content_type": 10,
-    "codename": "change_document"
-  }
-},
-{
-  "model": "auth.permission",
-  "pk": 39,
-  "fields": {
-    "name": "Can delete document",
-    "content_type": 10,
-    "codename": "delete_document"
-  }
-},
-{
-  "model": "auth.permission",
-  "pk": 40,
-  "fields": {
-    "name": "Can view document",
-    "content_type": 10,
-    "codename": "view_document"
-  }
-},
-{
-  "model": "auth.permission",
-  "pk": 41,
-  "fields": {
-    "name": "Can add image",
-    "content_type": 11,
-    "codename": "add_image"
-  }
-},
-{
-  "model": "auth.permission",
-  "pk": 42,
-  "fields": {
-    "name": "Can change image",
-    "content_type": 11,
-    "codename": "change_image"
-  }
-},
-{
-  "model": "auth.permission",
-  "pk": 43,
-  "fields": {
-    "name": "Can delete image",
-    "content_type": 11,
-    "codename": "delete_image"
-  }
-},
-{
-  "model": "auth.permission",
-  "pk": 44,
-  "fields": {
-    "name": "Can view image",
-    "content_type": 11,
-    "codename": "view_image"
-  }
-},
-{
   "model": "auth.user",
-  "pk": 1,
   "fields": {
     "password": "pbkdf2_sha256$390000$ND9ATjozeoCfEQ428Ng45P$z4wUyiZvXDGPVvT85j5Fl54xlM3MXSLan0nV3Pyfudg=",
     "last_login": "2023-05-10T18:22:15.280Z",
@@ -1286,7 +18,6 @@
 },
 {
   "model": "auth.user",
-  "pk": 2,
   "fields": {
     "password": "pbkdf2_sha256$390000$j6vfDHqHXcGWUE2sGKn09S$y/FlSI98FQzjEQI6uok6SwqCPVWKcMCMMpE5Sloz4nk=",
     "last_login": null,
@@ -1300,94 +31,6 @@
     "date_joined": "2023-05-10T18:21:23.251Z",
     "groups": [],
     "user_permissions": []
-  }
-},
-{
-  "model": "contenttypes.contenttype",
-  "pk": 1,
-  "fields": {
-    "app_label": "admin",
-    "model": "logentry"
-  }
-},
-{
-  "model": "contenttypes.contenttype",
-  "pk": 2,
-  "fields": {
-    "app_label": "auth",
-    "model": "permission"
-  }
-},
-{
-  "model": "contenttypes.contenttype",
-  "pk": 3,
-  "fields": {
-    "app_label": "auth",
-    "model": "group"
-  }
-},
-{
-  "model": "contenttypes.contenttype",
-  "pk": 4,
-  "fields": {
-    "app_label": "auth",
-    "model": "user"
-  }
-},
-{
-  "model": "contenttypes.contenttype",
-  "pk": 5,
-  "fields": {
-    "app_label": "contenttypes",
-    "model": "contenttype"
-  }
-},
-{
-  "model": "contenttypes.contenttype",
-  "pk": 6,
-  "fields": {
-    "app_label": "sessions",
-    "model": "session"
-  }
-},
-{
-  "model": "contenttypes.contenttype",
-  "pk": 7,
-  "fields": {
-    "app_label": "loja",
-    "model": "carrinho"
-  }
-},
-{
-  "model": "contenttypes.contenttype",
-  "pk": 8,
-  "fields": {
-    "app_label": "loja",
-    "model": "item"
-  }
-},
-{
-  "model": "contenttypes.contenttype",
-  "pk": 9,
-  "fields": {
-    "app_label": "loja",
-    "model": "carrinho_item"
-  }
-},
-{
-  "model": "contenttypes.contenttype",
-  "pk": 10,
-  "fields": {
-    "app_label": "uploader",
-    "model": "document"
-  }
-},
-{
-  "model": "contenttypes.contenttype",
-  "pk": 11,
-  "fields": {
-    "app_label": "uploader",
-    "model": "image"
   }
 },
 {
@@ -1615,6 +258,1212 @@
   "fields": {
     "item": 17,
     "quantidade": 1
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2023-04-28T18:15:48.412Z",
+    "user": [
+      "Vini"
+    ],
+    "content_type": [
+      "loja",
+      "item"
+    ],
+    "object_id": "1",
+    "object_repr": "acucar - 11 - R$100",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2023-04-28T18:15:53.854Z",
+    "user": [
+      "Vini"
+    ],
+    "content_type": [
+      "loja",
+      "item"
+    ],
+    "object_id": "1",
+    "object_repr": "acucar - 11 - R$100.00",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2023-04-28T18:16:14.346Z",
+    "user": [
+      "Vini"
+    ],
+    "content_type": [
+      "loja",
+      "carrinho"
+    ],
+    "object_id": "1",
+    "object_repr": "Carrinho",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2023-04-28T18:16:23.682Z",
+    "user": [
+      "Vini"
+    ],
+    "content_type": [
+      "loja",
+      "carrinho_item"
+    ],
+    "object_id": "1",
+    "object_repr": "acucar - 2",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2023-04-28T18:30:20.959Z",
+    "user": [
+      "Vini"
+    ],
+    "content_type": [
+      "loja",
+      "carrinho_item"
+    ],
+    "object_id": "1",
+    "object_repr": "acucar - 8",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Quantidade\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2023-04-28T18:33:10.036Z",
+    "user": [
+      "Vini"
+    ],
+    "content_type": [
+      "loja",
+      "item"
+    ],
+    "object_id": "1",
+    "object_repr": "Açúcar (1kg) - 11 - R$100.00",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Nome item\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2023-04-29T13:54:57.525Z",
+    "user": [
+      "Vini"
+    ],
+    "content_type": [
+      "loja",
+      "item"
+    ],
+    "object_id": "2",
+    "object_repr": "Melão - 13 - R$999.99",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2023-04-29T14:07:47.360Z",
+    "user": [
+      "Vini"
+    ],
+    "content_type": [
+      "loja",
+      "item"
+    ],
+    "object_id": "2",
+    "object_repr": "Melão - 13 - R$999.99",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Foto\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2023-04-29T14:13:24.276Z",
+    "user": [
+      "Vini"
+    ],
+    "content_type": [
+      "loja",
+      "item"
+    ],
+    "object_id": "2",
+    "object_repr": "Melão - 13 - R$999.99",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2023-04-29T14:13:49.638Z",
+    "user": [
+      "Vini"
+    ],
+    "content_type": [
+      "uploader",
+      "image"
+    ],
+    "object_id": "2",
+    "object_repr": "( - 33b32bf0-23d9-4494-814f-b3ab5d496113)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2023-04-29T14:13:55.062Z",
+    "user": [
+      "Vini"
+    ],
+    "content_type": [
+      "loja",
+      "item"
+    ],
+    "object_id": "1",
+    "object_repr": "Açúcar (1kg) - 11 - R$100.00",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Foto\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2023-05-02T22:59:40.503Z",
+    "user": [
+      "Vini"
+    ],
+    "content_type": [
+      "loja",
+      "carrinho_item"
+    ],
+    "object_id": "32",
+    "object_repr": "Açúcar (1kg) - 1",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2023-05-02T22:59:46.873Z",
+    "user": [
+      "Vini"
+    ],
+    "content_type": [
+      "loja",
+      "carrinho_item"
+    ],
+    "object_id": "31",
+    "object_repr": "Joao - 1",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2023-05-02T22:59:50.666Z",
+    "user": [
+      "Vini"
+    ],
+    "content_type": [
+      "loja",
+      "carrinho_item"
+    ],
+    "object_id": "30",
+    "object_repr": "Fluoreto - 1",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2023-05-02T23:00:05.888Z",
+    "user": [
+      "Vini"
+    ],
+    "content_type": [
+      "loja",
+      "carrinho_item"
+    ],
+    "object_id": "29",
+    "object_repr": "Açúcar (1kg) - 1",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2023-05-02T23:31:45.736Z",
+    "user": [
+      "Vini"
+    ],
+    "content_type": [
+      "loja",
+      "item"
+    ],
+    "object_id": "7",
+    "object_repr": "asdsd - 12 - R$999.00",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2023-05-02T23:31:50.008Z",
+    "user": [
+      "Vini"
+    ],
+    "content_type": [
+      "loja",
+      "item"
+    ],
+    "object_id": "6",
+    "object_repr": "Fluoreto - 10 - R$999.00",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2023-05-02T23:31:53.326Z",
+    "user": [
+      "Vini"
+    ],
+    "content_type": [
+      "loja",
+      "item"
+    ],
+    "object_id": "5",
+    "object_repr": "Joao - 3 - R$10.00",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2023-05-02T23:31:57.208Z",
+    "user": [
+      "Vini"
+    ],
+    "content_type": [
+      "loja",
+      "item"
+    ],
+    "object_id": "4",
+    "object_repr": "Maçã - 10 - R$99.00",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 20,
+  "fields": {
+    "action_time": "2023-05-02T23:32:00.639Z",
+    "user": [
+      "Vini"
+    ],
+    "content_type": [
+      "loja",
+      "item"
+    ],
+    "object_id": "3",
+    "object_repr": "Maçã - 10 - R$99.00",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 21,
+  "fields": {
+    "action_time": "2023-05-02T23:32:04.758Z",
+    "user": [
+      "Vini"
+    ],
+    "content_type": [
+      "loja",
+      "item"
+    ],
+    "object_id": "2",
+    "object_repr": "Melão - 13 - R$999.99",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 22,
+  "fields": {
+    "action_time": "2023-05-02T23:32:08.487Z",
+    "user": [
+      "Vini"
+    ],
+    "content_type": [
+      "loja",
+      "item"
+    ],
+    "object_id": "1",
+    "object_repr": "Açúcar (1kg) - 11 - R$100.00",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 23,
+  "fields": {
+    "action_time": "2023-05-02T23:32:45.285Z",
+    "user": [
+      "Vini"
+    ],
+    "content_type": [
+      "uploader",
+      "image"
+    ],
+    "object_id": "1",
+    "object_repr": "(awa - bd567bf6-c166-4e8f-9d32-ecbfe3d95a9b)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 24,
+  "fields": {
+    "action_time": "2023-05-02T23:32:49.135Z",
+    "user": [
+      "Vini"
+    ],
+    "content_type": [
+      "uploader",
+      "image"
+    ],
+    "object_id": "2",
+    "object_repr": "( - 33b32bf0-23d9-4494-814f-b3ab5d496113)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 25,
+  "fields": {
+    "action_time": "2023-05-02T23:33:07.946Z",
+    "user": [
+      "Vini"
+    ],
+    "content_type": [
+      "uploader",
+      "image"
+    ],
+    "object_id": "3",
+    "object_repr": "(Camisa - 936bdae5-e6be-491b-95e0-8fa8e01c0cbd)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 26,
+  "fields": {
+    "action_time": "2023-05-02T23:33:25.847Z",
+    "user": [
+      "Vini"
+    ],
+    "content_type": [
+      "uploader",
+      "image"
+    ],
+    "object_id": "4",
+    "object_repr": "(Calca - 3fdb0877-94d4-4cd4-bfaa-4b67bcb44fb4)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 27,
+  "fields": {
+    "action_time": "2023-05-02T23:33:45.857Z",
+    "user": [
+      "Vini"
+    ],
+    "content_type": [
+      "uploader",
+      "image"
+    ],
+    "object_id": "5",
+    "object_repr": "(Meia - 7ea156da-3020-4a30-a1b5-6ace8946d61e)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 28,
+  "fields": {
+    "action_time": "2023-05-02T23:34:00.542Z",
+    "user": [
+      "Vini"
+    ],
+    "content_type": [
+      "uploader",
+      "image"
+    ],
+    "object_id": "6",
+    "object_repr": "(Sapato - c2a575d8-424c-4b1f-9684-ae24ebfc0aa4)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 29,
+  "fields": {
+    "action_time": "2023-05-02T23:34:09.950Z",
+    "user": [
+      "Vini"
+    ],
+    "content_type": [
+      "uploader",
+      "image"
+    ],
+    "object_id": "7",
+    "object_repr": "(Bone - ec37628a-8bd6-4494-b249-b9e259f347e7)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 30,
+  "fields": {
+    "action_time": "2023-05-02T23:34:12.303Z",
+    "user": [
+      "Vini"
+    ],
+    "content_type": [
+      "uploader",
+      "image"
+    ],
+    "object_id": "7",
+    "object_repr": "(Bone - ec37628a-8bd6-4494-b249-b9e259f347e7)",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 31,
+  "fields": {
+    "action_time": "2023-05-02T23:34:22.520Z",
+    "user": [
+      "Vini"
+    ],
+    "content_type": [
+      "uploader",
+      "image"
+    ],
+    "object_id": "8",
+    "object_repr": "(Oculos - 7836e806-7e18-4801-9022-24bc3d363239)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 32,
+  "fields": {
+    "action_time": "2023-05-02T23:34:34.330Z",
+    "user": [
+      "Vini"
+    ],
+    "content_type": [
+      "uploader",
+      "image"
+    ],
+    "object_id": "9",
+    "object_repr": "(Relogio - 03cd55bc-a78b-4c35-ad35-26621d781df7)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 33,
+  "fields": {
+    "action_time": "2023-05-02T23:34:45.807Z",
+    "user": [
+      "Vini"
+    ],
+    "content_type": [
+      "uploader",
+      "image"
+    ],
+    "object_id": "10",
+    "object_repr": "(Bermuda - 339fad4b-782c-43b1-baba-5182d2511786)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 34,
+  "fields": {
+    "action_time": "2023-05-02T23:34:51.951Z",
+    "user": [
+      "Vini"
+    ],
+    "content_type": [
+      "uploader",
+      "image"
+    ],
+    "object_id": "11",
+    "object_repr": "(Cueca - bcc78b1a-cb4f-411e-965a-1eb5e2409312)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 35,
+  "fields": {
+    "action_time": "2023-05-02T23:35:16.775Z",
+    "user": [
+      "Vini"
+    ],
+    "content_type": [
+      "loja",
+      "item"
+    ],
+    "object_id": "8",
+    "object_repr": "Camisa - 10 - R$87.90",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 36,
+  "fields": {
+    "action_time": "2023-05-02T23:35:46.028Z",
+    "user": [
+      "Vini"
+    ],
+    "content_type": [
+      "loja",
+      "item"
+    ],
+    "object_id": "9",
+    "object_repr": "Bermuda - 10 - R$19.90",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 37,
+  "fields": {
+    "action_time": "2023-05-02T23:36:09.801Z",
+    "user": [
+      "Vini"
+    ],
+    "content_type": [
+      "loja",
+      "item"
+    ],
+    "object_id": "10",
+    "object_repr": "Relógio - 10 - R$859.99",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 38,
+  "fields": {
+    "action_time": "2023-05-02T23:36:31.631Z",
+    "user": [
+      "Vini"
+    ],
+    "content_type": [
+      "loja",
+      "item"
+    ],
+    "object_id": "11",
+    "object_repr": "Cueca - 10 - R$10.50",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 39,
+  "fields": {
+    "action_time": "2023-05-02T23:36:56.194Z",
+    "user": [
+      "Vini"
+    ],
+    "content_type": [
+      "loja",
+      "item"
+    ],
+    "object_id": "12",
+    "object_repr": "Óculos - 10 - R$199.90",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 40,
+  "fields": {
+    "action_time": "2023-05-02T23:37:17.298Z",
+    "user": [
+      "Vini"
+    ],
+    "content_type": [
+      "loja",
+      "item"
+    ],
+    "object_id": "13",
+    "object_repr": "Meia - 10 - R$3.50",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 41,
+  "fields": {
+    "action_time": "2023-05-02T23:37:53.100Z",
+    "user": [
+      "Vini"
+    ],
+    "content_type": [
+      "loja",
+      "item"
+    ],
+    "object_id": "14",
+    "object_repr": "Boné - 10 - R$50.00",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 42,
+  "fields": {
+    "action_time": "2023-05-02T23:38:11.217Z",
+    "user": [
+      "Vini"
+    ],
+    "content_type": [
+      "loja",
+      "item"
+    ],
+    "object_id": "15",
+    "object_repr": "Sapato - 10 - R$99.90",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 43,
+  "fields": {
+    "action_time": "2023-05-02T23:39:02.990Z",
+    "user": [
+      "Vini"
+    ],
+    "content_type": [
+      "loja",
+      "item"
+    ],
+    "object_id": "16",
+    "object_repr": "Calça - 10 - R$89.90",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 44,
+  "fields": {
+    "action_time": "2023-05-07T14:04:31.787Z",
+    "user": [
+      "Vini"
+    ],
+    "content_type": [
+      "uploader",
+      "image"
+    ],
+    "object_id": "10",
+    "object_repr": "(Bermuda - 339fad4b-782c-43b1-baba-5182d2511786)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 45,
+  "fields": {
+    "action_time": "2023-05-07T14:04:38.887Z",
+    "user": [
+      "Vini"
+    ],
+    "content_type": [
+      "uploader",
+      "image"
+    ],
+    "object_id": "9",
+    "object_repr": "(Relogio - 03cd55bc-a78b-4c35-ad35-26621d781df7)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 46,
+  "fields": {
+    "action_time": "2023-05-07T14:04:46.384Z",
+    "user": [
+      "Vini"
+    ],
+    "content_type": [
+      "uploader",
+      "image"
+    ],
+    "object_id": "8",
+    "object_repr": "(Oculos - 7836e806-7e18-4801-9022-24bc3d363239)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 47,
+  "fields": {
+    "action_time": "2023-05-07T14:04:58.800Z",
+    "user": [
+      "Vini"
+    ],
+    "content_type": [
+      "uploader",
+      "image"
+    ],
+    "object_id": "11",
+    "object_repr": "(Cueca - bcc78b1a-cb4f-411e-965a-1eb5e2409312)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 48,
+  "fields": {
+    "action_time": "2023-05-07T14:05:35.013Z",
+    "user": [
+      "Vini"
+    ],
+    "content_type": [
+      "uploader",
+      "image"
+    ],
+    "object_id": "6",
+    "object_repr": "(Sapato - c2a575d8-424c-4b1f-9684-ae24ebfc0aa4)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 49,
+  "fields": {
+    "action_time": "2023-05-07T14:05:38.401Z",
+    "user": [
+      "Vini"
+    ],
+    "content_type": [
+      "uploader",
+      "image"
+    ],
+    "object_id": "7",
+    "object_repr": "(Bone - ec37628a-8bd6-4494-b249-b9e259f347e7)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 50,
+  "fields": {
+    "action_time": "2023-05-07T14:05:41.946Z",
+    "user": [
+      "Vini"
+    ],
+    "content_type": [
+      "uploader",
+      "image"
+    ],
+    "object_id": "5",
+    "object_repr": "(Meia - 7ea156da-3020-4a30-a1b5-6ace8946d61e)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 51,
+  "fields": {
+    "action_time": "2023-05-07T14:05:45.889Z",
+    "user": [
+      "Vini"
+    ],
+    "content_type": [
+      "uploader",
+      "image"
+    ],
+    "object_id": "4",
+    "object_repr": "(Calca - 3fdb0877-94d4-4cd4-bfaa-4b67bcb44fb4)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 52,
+  "fields": {
+    "action_time": "2023-05-07T14:14:25.728Z",
+    "user": [
+      "Vini"
+    ],
+    "content_type": [
+      "uploader",
+      "image"
+    ],
+    "object_id": "12",
+    "object_repr": "(Bermuda - b4d154d5-2286-4a40-9713-300ef0d7e0ec)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 53,
+  "fields": {
+    "action_time": "2023-05-07T14:14:28.193Z",
+    "user": [
+      "Vini"
+    ],
+    "content_type": [
+      "loja",
+      "item"
+    ],
+    "object_id": "17",
+    "object_repr": "Bermuda - 12 - R$29.90",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 54,
+  "fields": {
+    "action_time": "2023-05-07T14:15:02.390Z",
+    "user": [
+      "Vini"
+    ],
+    "content_type": [
+      "uploader",
+      "image"
+    ],
+    "object_id": "13",
+    "object_repr": "(Relogio - 1a3caf26-49bb-4490-9e58-404a56e48afe)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 55,
+  "fields": {
+    "action_time": "2023-05-07T14:15:04.273Z",
+    "user": [
+      "Vini"
+    ],
+    "content_type": [
+      "loja",
+      "item"
+    ],
+    "object_id": "18",
+    "object_repr": "Relógio - 5 - R$859.90",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 56,
+  "fields": {
+    "action_time": "2023-05-07T14:16:09.209Z",
+    "user": [
+      "Vini"
+    ],
+    "content_type": [
+      "uploader",
+      "image"
+    ],
+    "object_id": "14",
+    "object_repr": "(Oculos - dc2284a2-faad-4c76-b266-1c904150e230)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 57,
+  "fields": {
+    "action_time": "2023-05-07T14:16:10.863Z",
+    "user": [
+      "Vini"
+    ],
+    "content_type": [
+      "loja",
+      "item"
+    ],
+    "object_id": "19",
+    "object_repr": "Óculos - 20 - R$99.90",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 58,
+  "fields": {
+    "action_time": "2023-05-07T14:16:41.606Z",
+    "user": [
+      "Vini"
+    ],
+    "content_type": [
+      "uploader",
+      "image"
+    ],
+    "object_id": "15",
+    "object_repr": "(Meia - 507c0390-53e9-42d4-81f2-f81ed5e0bd44)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 59,
+  "fields": {
+    "action_time": "2023-05-07T14:16:42.778Z",
+    "user": [
+      "Vini"
+    ],
+    "content_type": [
+      "loja",
+      "item"
+    ],
+    "object_id": "20",
+    "object_repr": "Meia - 25 - R$5.50",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 60,
+  "fields": {
+    "action_time": "2023-05-07T14:17:13.091Z",
+    "user": [
+      "Vini"
+    ],
+    "content_type": [
+      "uploader",
+      "image"
+    ],
+    "object_id": "16",
+    "object_repr": "(Tenis - de85852b-46cd-4f4d-be44-e13e5d5e56a7)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 61,
+  "fields": {
+    "action_time": "2023-05-07T14:17:14.208Z",
+    "user": [
+      "Vini"
+    ],
+    "content_type": [
+      "loja",
+      "item"
+    ],
+    "object_id": "21",
+    "object_repr": "Tênis - 20 - R$75.70",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 62,
+  "fields": {
+    "action_time": "2023-05-07T14:17:57.654Z",
+    "user": [
+      "Vini"
+    ],
+    "content_type": [
+      "uploader",
+      "image"
+    ],
+    "object_id": "17",
+    "object_repr": "(Bone - e8c60724-da2f-4eb4-8ed4-febcc7208cf4)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 63,
+  "fields": {
+    "action_time": "2023-05-07T14:17:59.469Z",
+    "user": [
+      "Vini"
+    ],
+    "content_type": [
+      "loja",
+      "item"
+    ],
+    "object_id": "22",
+    "object_repr": "Boné - 7 - R$25.99",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 64,
+  "fields": {
+    "action_time": "2023-05-07T14:18:47.825Z",
+    "user": [
+      "Vini"
+    ],
+    "content_type": [
+      "uploader",
+      "image"
+    ],
+    "object_id": "18",
+    "object_repr": "(Calca - cc54a137-3c09-40f8-86f4-808056a5682c)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 65,
+  "fields": {
+    "action_time": "2023-05-07T14:18:49.266Z",
+    "user": [
+      "Vini"
+    ],
+    "content_type": [
+      "loja",
+      "item"
+    ],
+    "object_id": "23",
+    "object_repr": "Calça - 10 - R$39.90",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 66,
+  "fields": {
+    "action_time": "2023-05-07T17:48:20.959Z",
+    "user": [
+      "Vini"
+    ],
+    "content_type": [
+      "uploader",
+      "image"
+    ],
+    "object_id": "19",
+    "object_repr": "(Oculos2 - 17feb7b0-bc0d-4b7d-adcb-b696749e0020)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 67,
+  "fields": {
+    "action_time": "2023-05-07T17:48:36.782Z",
+    "user": [
+      "Vini"
+    ],
+    "content_type": [
+      "loja",
+      "item"
+    ],
+    "object_id": "19",
+    "object_repr": "Óculos - 20 - R$99.90",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Foto\"]}}]"
   }
 }
 ]
