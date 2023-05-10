@@ -1,23 +1,5 @@
 [
 {
-    "model": "auth.user",
-    "pk": 1,
-    "fields": {
-        "password": "pbkdf2_sha256$600000$vMh10SGpSykbXnm1fdcnB1$Mq/zeL3MKdT+GhrZroRbyQSZbQ+IySzjo5VHa3Sz+A8=",
-        "last_login": "2023-04-29T14:07:35.651Z",
-        "is_superuser": true,
-        "username": "Vini",
-        "first_name": "",
-        "last_name": "",
-        "email": "",
-        "is_staff": true,
-        "is_active": true,
-        "date_joined": "2023-04-28T18:12:56.751Z",
-        "groups": [],
-        "user_permissions": []
-    }
-},
-{
     "model": "uploader.image",
     "pk": 3,
     "fields": {
